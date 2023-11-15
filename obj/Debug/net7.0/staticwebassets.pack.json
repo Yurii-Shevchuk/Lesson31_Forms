@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\beetroot\\Lesson31\\wwwroot\\icon-reset.png",
+      "PackagePath": "staticwebassets\\icon-reset.png"
+    },
+    {
+      "Id": "E:\\Projects\\beetroot\\Lesson31\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Lesson_31_HTML_Forms.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Lesson_31_HTML_Forms.props",
+      "PackagePath": "build\\Lesson_31_HTML_Forms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Lesson_31_HTML_Forms.props",
+      "PackagePath": "buildMultiTargeting\\Lesson_31_HTML_Forms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Lesson_31_HTML_Forms.props",
+      "PackagePath": "buildTransitive\\Lesson_31_HTML_Forms.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

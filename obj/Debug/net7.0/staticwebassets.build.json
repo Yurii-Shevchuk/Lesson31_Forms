@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "20sM7b1xDg2xKFoVUpyu3uhZF4u5YxrQ5MjPnpbRCqs=",
+  "Source": "Lesson_31_HTML_Forms",
+  "BasePath": "_content/Lesson_31_HTML_Forms",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lesson_31_HTML_Forms\\wwwroot",
+      "Source": "Lesson_31_HTML_Forms",
+      "ContentRoot": "E:\\Projects\\beetroot\\Lesson31\\wwwroot\\",
+      "BasePath": "_content/Lesson_31_HTML_Forms",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Projects\\beetroot\\Lesson31\\wwwroot\\icon-reset.png",
+      "SourceId": "Lesson_31_HTML_Forms",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\beetroot\\Lesson31\\wwwroot\\",
+      "BasePath": "_content/Lesson_31_HTML_Forms",
+      "RelativePath": "icon-reset.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon-reset.png"
+    },
+    {
+      "Identity": "E:\\Projects\\beetroot\\Lesson31\\wwwroot\\index.html",
+      "SourceId": "Lesson_31_HTML_Forms",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\beetroot\\Lesson31\\wwwroot\\",
+      "BasePath": "_content/Lesson_31_HTML_Forms",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
